@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.ToolBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gray;
+    height: 40px;
+}
+.Toolbar{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gray;
+    height: 40px;
+}
+.parent{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(98, 37, 37);
+    height: 40px;
+}
