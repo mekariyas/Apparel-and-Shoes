@@ -1,8 +1,8 @@
 import React,{useState, useEffect} from 'react'
-import Shoes1 from '../assets/Shoes1.jpg'
-import Shoes2 from '../assets/Shoes2.jpg'
-import Shoes3 from '../assets/Shoes3.jpg'
-import Shoes4 from '../assets/Shoes4.jpg'
+import Shoes1 from 'src/assets/Shoes1.jpg'
+import Shoes2 from 'src/assets/Shoes2.jpg'
+import Shoes3 from 'src/assets/Shoes3.jpg'
+import Shoes4 from 'src/assets/Shoes4.jpg'
 import { useDispatch } from 'react-redux'
 import { AddToCart } from '../feature/cart/Cartslice'
 
